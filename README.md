@@ -1,2 +1,2 @@
-# StudentClub
-Designed a website frontend using bootstrap 
+# website
+Coding Club Website 
